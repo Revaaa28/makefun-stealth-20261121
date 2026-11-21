@@ -1,6 +1,8 @@
 # The Lantern Vault
 
-[![make.fun](https://img.shields.io/badge/make.fun-best--stealth--game-blue)](https://make.fun/c/best-stealth-game-20261121-1759)
+[![make.fun](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+[![Rank](https://make.fun/badge/best-stealth-game-20261121-1759/Revaaa28/makefun-stealth-20261121/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
+[![Reward](https://make.fun/badge/best-stealth-game-20261121-1759/Revaaa28/makefun-stealth-20261121/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A complete top-down 2D stealth game, built for make.fun's **"Make the best stealth game"** bounty (`best-stealth-game-20261121-1759`).
